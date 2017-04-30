@@ -1,0 +1,1 @@
+docker run -it --rm -v /Users/liyi/git/ansible:/home/ansible  itech/ansible /bin/bash
