@@ -45,7 +45,7 @@ class CallbackModule(CallbackBase):
     CALLBACK_NEEDS_WHITELIST = True
 
     TIME_FORMAT="%b %d %Y %H:%M:%S"
-    MSG_FORMAT="%(now)s - %(category)s - %(data)s\n\n"
+    MSG_FORMAT="{\"date\": \"%(now)s\" , \"result\": \"%(category)s\" , \"log\":%(data)s  }\n\n"
 
     def __init__(self):
 
@@ -58,14 +58,20 @@ class CallbackModule(CallbackBase):
         if isinstance(data, MutableMapping):
             if '_ansible_verbose_override' in data:
                 # avoid logging extraneous data
-                data = 'omitted'
+                data = '{omitted}'
             else:
                 data = data.copy()
+                #data = json.dumps(data)
+                #print(self.task_name)
+                #print(json.dumps(data))
+                '''
                 invocation = data.pop('invocation', None)
+                print(data)
                 data = json.dumps(data)
                 if invocation is not None:
-                    data = json.dumps(invocation) + " => %s " % data
-
+                    print(json.dumps(invocation))
+                    data = json.dumps(invocation) + " ,\"module_output\": %s " % data
+                '''
         path = os.path.join("/home/ansible/hosts_log", host)
         now = time.strftime(self.TIME_FORMAT, time.localtime())
 
@@ -76,11 +82,28 @@ class CallbackModule(CallbackBase):
     def runner_on_failed(self, host, res, ignore_errors=False):
         self.log(host, 'FAILED', res)
 
-    def runner_on_ok(self, host, res):
-        self.log(host, 'OK', res)
+    #def runner_on_ok(self, host, res):
+    #    self.log(host, 'OK', res)
+
+    def v2_runner_on_ok(self, result):
+        host = result._host.get_name()
+        task = result._task
+        print(host,task)
+        #print(type(result))
+        #print(type(result._task))
+        
+        data = {
+            'status': "OK",
+            'ansible_type': "task",
+            'ansible_host': result._host.name,
+            'ansible_task': task,
+            'ansible_result': self._dump_results(result._result)
+        }
+        self.log(host, 'OK', data)
+
 
     def runner_on_skipped(self, host, item=None):
-        self.log(host, 'SKIPPED', '...')
+        self.log(host, 'SKIPPED', '{ }')
 
     def runner_on_unreachable(self, host, res):
         self.log(host, 'UNREACHABLE', res)

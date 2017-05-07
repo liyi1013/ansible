@@ -1,8 +1,13 @@
 ---
 - hosts: all
   remote_user: root
+  gather_facts: no
   tasks:
-    - name: test connection
-      ping:
-    - name: task 1
-      shell: date
+    - name: test bash running
+      shell: ps -ef|grep bash | grep -v 'grep'
+    - name: ping
+      ping: 
+
+ 
+
+      
