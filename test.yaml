@@ -3,11 +3,14 @@
   remote_user: root
   gather_facts: no
   tasks:
+    - name: test /home/ansible
+      shell: ls /home/ansible
+      ignore_errors: yes
     - name: test bash running
       shell: ps -ef|grep bash | grep -v 'grep'
-    - name: ping
-      ping: 
+      ignore_errors: yes
+      register: res
+    - name: print
+      debug: msg={{res.stdout}}
+      when: res.rc == 0
 
- 
-
-      
