@@ -1,0 +1,9 @@
+"paths":
+  "/Users":
+  - "/Users/liyi/tmp/log"
+  - "/Users/liyi/tmp/"
+  "/oradata":
+  - "/oradata/maps/admin"
+  - "/oradata/app/oracle/diag"
+"pattern":
+- "*.log"
