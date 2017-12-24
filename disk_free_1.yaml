@@ -1,0 +1,15 @@
+
+- hosts: localhost
+  gather_facts: no
+  vars: 
+  - seq: [1,2,3,4,5]
+  tasks: 
+  - name: debug
+    ping: 
+  - name: f1
+    set_fact: myvar=" {{seq|max}} "
+  - name: debug1
+    debug:
+      msg: echo "{{ myvar }}"
+
+# print re.findall(r"\[(.*?)\]",str1)[0].split(':')[0]

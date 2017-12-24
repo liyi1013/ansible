@@ -1,0 +1,1184 @@
+
+
+play start : Ansible Ad-Hoc - May 21 2017 00:46:12
+task start :  - May 21 2017 00:46:12
+
+
+play start : Ansible Ad-Hoc - May 21 2017 00:47:36
+task start :  - May 21 2017 00:47:36
+
+
+play start : Ansible Ad-Hoc - May 21 2017 01:37:18
+task start :  - May 21 2017 01:37:18
+play_book start : test.yaml - May 21 2017 01:38:04
+
+
+play start : all - May 21 2017 01:38:04
+task start : test bash running - May 21 2017 01:38:04
+localhost
+127.0.0.1
+task start : print - May 21 2017 01:38:14
+127.0.0.1
+localhost
+play_book start : test.yaml - May 21 2017 01:42:26
+
+
+play start : all - May 21 2017 01:42:26
+task start : test bash running - May 21 2017 01:42:26
+localhost
+127.0.0.1
+task start : print - May 21 2017 01:42:36
+127.0.0.1
+localhost
+play_book start : test.yaml - May 21 2017 01:45:34
+
+
+play start : all - May 21 2017 01:45:34
+task start : test bash running - May 21 2017 01:45:34
+localhost
+127.0.0.1
+task start : print - May 21 2017 01:45:44
+127.0.0.1
+localhost
+play_book start : test.yaml - May 21 2017 01:46:08
+
+
+play start : all - May 21 2017 01:46:08
+task start : test bash running - May 21 2017 01:46:08
+127.0.0.1
+localhost
+task start : print - May 21 2017 01:46:18
+127.0.0.1
+localhost
+play_book start : test.yaml - May 21 2017 01:48:09
+
+
+play start : all - May 21 2017 01:48:09
+task start : test bash running - May 21 2017 01:48:09
+127.0.0.1
+localhost
+task start : print - May 21 2017 01:48:19
+127.0.0.1
+localhost
+play_book start : test.yaml - May 21 2017 01:53:50
+
+
+play start : all - May 21 2017 01:53:50
+task start : test bash running - May 21 2017 01:53:50
+localhost
+127.0.0.1
+task start : print - May 21 2017 01:54:00
+127.0.0.1
+localhost
+play_book start : test.yaml - May 21 2017 01:54:26
+
+
+play start : all - May 21 2017 01:54:26
+task start : test bash running - May 21 2017 01:54:26
+localhost
+127.0.0.1
+task start : print - May 21 2017 01:54:36
+127.0.0.1
+localhost
+play_book start : test.yaml - May 21 2017 01:55:15
+
+
+play start : all - May 21 2017 01:55:15
+task start : test bash running - May 21 2017 01:55:15
+localhost
+127.0.0.1
+task start : print - May 21 2017 01:55:25
+127.0.0.1
+localhost
+play_book start : test.yaml - May 21 2017 01:57:01
+
+
+play start : all - May 21 2017 01:57:01
+task start : test bash running - May 21 2017 01:57:01
+localhost
+127.0.0.1
+task start : print - May 21 2017 01:57:11
+127.0.0.1
+localhost
+play_book start : test.yaml - May 21 2017 01:57:59
+
+
+play start : all - May 21 2017 01:57:59
+task start : test bash running - May 21 2017 01:57:59
+127.0.0.1
+localhost
+task start : print - May 21 2017 01:58:09
+127.0.0.1
+localhost
+play_book start : test.yaml - May 21 2017 01:58:32
+
+
+play start : all - May 21 2017 01:58:32
+task start : test bash running - May 21 2017 01:58:32
+localhost
+127.0.0.1
+task start : print - May 21 2017 01:58:42
+127.0.0.1
+localhost
+play_book start : test.yaml - May 21 2017 02:00:19
+
+
+play start : all - May 21 2017 02:00:19
+task start : test bash running - May 21 2017 02:00:19
+127.0.0.1
+localhost
+task start : print - May 21 2017 02:00:30
+127.0.0.1
+localhost
+play_book start : test.yaml - May 21 2017 02:01:13
+
+
+play start : all - May 21 2017 02:01:13
+task start : test bash running - May 21 2017 02:01:13
+localhost
+127.0.0.1
+task start : print - May 21 2017 02:01:23
+127.0.0.1
+localhost
+play_book start : test.yaml - May 21 2017 02:02:20
+
+
+play start : all - May 21 2017 02:02:20
+task start : test bash running - May 21 2017 02:02:20
+localhost
+127.0.0.1
+task start : print - May 21 2017 02:02:30
+127.0.0.1
+localhost
+play_book start : test.yaml - May 21 2017 02:05:20
+
+
+play start : all - May 21 2017 02:05:20
+task start : test bash running - May 21 2017 02:05:20
+localhost
+127.0.0.1
+task start : print - May 21 2017 02:05:30
+127.0.0.1
+localhost
+play_book start : test.yaml - May 21 2017 02:05:48
+
+
+play start : all - May 21 2017 02:05:48
+task start : test bash running - May 21 2017 02:05:48
+localhost
+127.0.0.1
+task start : print - May 21 2017 02:05:59
+127.0.0.1
+localhost
+play_book start : test.yaml - May 21 2017 02:07:20
+
+
+play start : all - May 21 2017 02:07:20
+task start : test /home/ansible - May 21 2017 02:07:20
+task start : test bash running - May 21 2017 02:07:30
+task start : print - May 21 2017 02:07:31
+play_book start : test.yaml - May 21 2017 02:11:30
+
+
+play start : all - May 21 2017 02:11:30
+task start : test /home/ansible - May 21 2017 02:11:30
+task start : test bash running - May 21 2017 02:11:40
+task start : print - May 21 2017 02:11:40
+
+
+play start : Ansible Ad-Hoc - Jun 02 2017 15:03:01
+task start :  - Jun 02 2017 15:03:01
+127.0.0.1
+localhost
+
+
+play start : Ansible Ad-Hoc - Jun 02 2017 15:03:24
+task start :  - Jun 02 2017 15:03:24
+localhost
+
+
+play start : Ansible Ad-Hoc - Jun 02 2017 15:05:06
+task start :  - Jun 02 2017 15:05:06
+
+
+play start : Ansible Ad-Hoc - Jun 02 2017 15:10:13
+task start :  - Jun 02 2017 15:10:13
+
+
+play start : Ansible Ad-Hoc - Jun 02 2017 15:20:33
+task start :  - Jun 02 2017 15:20:33
+
+
+play start : Ansible Ad-Hoc - Jun 02 2017 15:20:54
+task start :  - Jun 02 2017 15:20:54
+
+
+play start : Ansible Ad-Hoc - Jun 02 2017 15:21:54
+task start :  - Jun 02 2017 15:21:54
+
+
+play start : Ansible Ad-Hoc - Jun 28 2017 13:59:00
+
+
+play start : Ansible Ad-Hoc - Jun 28 2017 13:59:28
+task start :  - Jun 28 2017 13:59:28
+
+
+play start : Ansible Ad-Hoc - Jun 28 2017 14:04:43
+task start :  - Jun 28 2017 14:04:43
+
+
+play start : Ansible Ad-Hoc - Jun 28 2017 14:06:21
+task start :  - Jun 28 2017 14:06:21
+
+
+play start : Ansible Ad-Hoc - Jun 28 2017 14:06:27
+task start :  - Jun 28 2017 14:06:27
+
+
+play start : Ansible Ad-Hoc - Jun 28 2017 14:12:00
+task start :  - Jun 28 2017 14:12:00
+
+
+play start : Ansible Ad-Hoc - Jun 28 2017 14:12:17
+task start :  - Jun 28 2017 14:12:17
+
+
+play start : Ansible Ad-Hoc - Jun 28 2017 14:13:09
+task start :  - Jun 28 2017 14:13:09
+
+
+play start : Ansible Ad-Hoc - Jun 28 2017 14:13:45
+task start :  - Jun 28 2017 14:13:45
+
+
+play start : Ansible Ad-Hoc - Jun 28 2017 14:13:51
+task start :  - Jun 28 2017 14:13:51
+
+
+play start : Ansible Ad-Hoc - Jun 28 2017 14:14:46
+task start :  - Jun 28 2017 14:14:46
+
+
+play start : Ansible Ad-Hoc - Jun 28 2017 14:17:39
+task start :  - Jun 28 2017 14:17:39
+
+
+play start : Ansible Ad-Hoc - Jun 28 2017 14:18:00
+task start :  - Jun 28 2017 14:18:00
+127.0.0.1
+localhost
+
+
+play start : Ansible Ad-Hoc - Jun 28 2017 14:18:51
+task start :  - Jun 28 2017 14:18:51
+
+
+play start : Ansible Ad-Hoc - Jun 28 2017 14:19:55
+task start :  - Jun 28 2017 14:19:55
+
+
+play start : Ansible Ad-Hoc - Jun 28 2017 14:48:37
+task start :  - Jun 28 2017 14:48:37
+play_book start : test2.yaml - Jun 28 2017 14:53:19
+
+
+play start : all - Jun 28 2017 14:53:19
+task start : test lineinfile - Jun 28 2017 14:53:19
+play_book start : test2.yaml - Jun 28 2017 14:53:54
+
+
+play start : all - Jun 28 2017 14:53:54
+task start : test lineinfile - Jun 28 2017 14:53:54
+play_book start : test2.yaml - Jun 28 2017 14:54:31
+
+
+play start : all - Jun 28 2017 14:54:31
+task start : test lineinfile - Jun 28 2017 14:54:31
+play_book start : test2.yaml - Jun 28 2017 14:54:55
+
+
+play start : all - Jun 28 2017 14:54:55
+task start : test lineinfile - Jun 28 2017 14:54:55
+play_book start : test2.yaml - Jun 28 2017 15:07:54
+
+
+play start : all - Jun 28 2017 15:07:54
+task start : test lineinfile - Jun 28 2017 15:07:54
+play_book start : test2.yaml - Jun 28 2017 15:08:35
+
+
+play start : all - Jun 28 2017 15:08:35
+task start : test lineinfile - Jun 28 2017 15:08:35
+play_book start : test2.yaml - Jun 28 2017 15:08:40
+
+
+play start : all - Jun 28 2017 15:08:40
+task start : test lineinfile - Jun 28 2017 15:08:40
+play_book start : test2.yaml - Jun 28 2017 15:08:44
+
+
+play start : all - Jun 28 2017 15:08:44
+task start : test lineinfile - Jun 28 2017 15:08:44
+play_book start : test2.yaml - Jun 28 2017 15:09:00
+
+
+play start : all - Jun 28 2017 15:09:00
+task start : test lineinfile - Jun 28 2017 15:09:00
+play_book start : test2.yaml - Jun 28 2017 15:09:58
+
+
+play start : all - Jun 28 2017 15:09:58
+task start : test lineinfile - Jun 28 2017 15:09:58
+play_book start : test2.yaml - Jun 28 2017 15:10:16
+
+
+play start : all - Jun 28 2017 15:10:16
+task start : test lineinfile - Jun 28 2017 15:10:16
+play_book start : test2.yaml - Jun 28 2017 15:10:19
+
+
+play start : all - Jun 28 2017 15:10:19
+task start : test lineinfile - Jun 28 2017 15:10:19
+play_book start : test2.yaml - Jun 28 2017 15:15:43
+
+
+play start : all - Jun 28 2017 15:15:43
+task start : test lineinfile - Jun 28 2017 15:15:43
+play_book start : test2.yaml - Jun 28 2017 15:16:24
+
+
+play start : all - Jun 28 2017 15:16:24
+task start : test lineinfile - Jun 28 2017 15:16:24
+play_book start : test2.yaml - Jun 28 2017 15:20:47
+
+
+play start : all - Jun 28 2017 15:20:47
+task start : test lineinfile - Jun 28 2017 15:20:47
+play_book start : test2.yaml - Jun 28 2017 15:21:09
+
+
+play start : all - Jun 28 2017 15:21:09
+task start : test lineinfile - Jun 28 2017 15:21:09
+play_book start : test2.yaml - Jun 28 2017 15:21:37
+
+
+play start : all - Jun 28 2017 15:21:37
+task start : test lineinfile - Jun 28 2017 15:21:37
+play_book start : test2.yaml - Jun 28 2017 15:24:06
+
+
+play start : all - Jun 28 2017 15:24:06
+task start : test lineinfile - Jun 28 2017 15:24:06
+play_book start : test2.yaml - Jun 28 2017 15:24:36
+
+
+play start : all - Jun 28 2017 15:24:36
+task start : test lineinfile - Jun 28 2017 15:24:36
+play_book start : test2.yaml - Jun 28 2017 15:24:55
+
+
+play start : all - Jun 28 2017 15:24:55
+task start : test lineinfile - Jun 28 2017 15:24:55
+play_book start : test2.yaml - Jun 28 2017 15:27:54
+
+
+play start : all - Jun 28 2017 15:27:54
+task start : test lineinfile - Jun 28 2017 15:27:54
+play_book start : test2.yaml - Jun 28 2017 15:34:19
+
+
+play start : all - Jun 28 2017 15:34:19
+task start : test lineinfile - Jun 28 2017 15:34:19
+play_book start : test2.yaml - Jun 28 2017 15:43:56
+
+
+play start : all - Jun 28 2017 15:43:56
+task start : test lineinfile - Jun 28 2017 15:43:56
+play_book start : test2.yaml - Jun 28 2017 15:44:03
+
+
+play start : all - Jun 28 2017 15:44:03
+task start : test lineinfile - Jun 28 2017 15:44:03
+play_book start : test2.yaml - Jun 28 2017 15:48:35
+
+
+play start : all - Jun 28 2017 15:48:35
+task start : test lineinfile - Jun 28 2017 15:48:35
+play_book start : test3.yaml - Jun 28 2017 15:56:54
+
+
+play start : all - Jun 28 2017 15:56:54
+task start : debug loops - Jun 28 2017 15:56:54
+
+
+play start : Ansible Ad-Hoc - Aug 12 2017 05:58:59
+task start :  - Aug 12 2017 05:59:00
+play_book start : disk_free.yaml - Aug 12 2017 06:12:23
+
+
+play start : all - Aug 12 2017 06:12:23
+task start : Gathering Facts - Aug 12 2017 06:12:23
+task start : test for available disk space - Aug 12 2017 06:12:33
+127.0.0.1
+localhost
+task start : free disk space - Aug 12 2017 06:12:33
+play_book start : disk_free.yaml - Aug 12 2017 06:13:24
+
+
+play start : all - Aug 12 2017 06:13:24
+task start : Gathering Facts - Aug 12 2017 06:13:24
+task start : test for available disk space - Aug 12 2017 06:13:34
+127.0.0.1
+localhost
+task start : free disk space - Aug 12 2017 06:13:34
+play_book start : disk_free.yaml - Aug 12 2017 06:14:50
+
+
+play start : all - Aug 12 2017 06:14:50
+task start : Gathering Facts - Aug 12 2017 06:14:50
+task start : test for available disk space - Aug 12 2017 06:15:00
+task start : free disk space - Aug 12 2017 06:15:00
+127.0.0.1
+localhost
+play_book start : disk_free.yaml - Aug 12 2017 06:15:25
+
+
+play start : all - Aug 12 2017 06:15:25
+task start : Gathering Facts - Aug 12 2017 06:15:25
+task start : test for available disk space - Aug 12 2017 06:15:35
+task start : free disk space - Aug 12 2017 06:15:35
+127.0.0.1
+localhost
+play_book start : disk_free.yaml - Aug 12 2017 06:16:32
+
+
+play start : all - Aug 12 2017 06:16:32
+task start : Gathering Facts - Aug 12 2017 06:16:32
+task start : test for available disk space - Aug 12 2017 06:16:42
+127.0.0.1
+localhost
+task start : free disk space - Aug 12 2017 06:16:43
+play_book start : disk_free.yaml - Aug 12 2017 06:20:46
+
+
+play start : all - Aug 12 2017 06:20:46
+task start : Gathering Facts - Aug 12 2017 06:20:46
+task start : test for available disk space - Aug 12 2017 06:20:57
+127.0.0.1
+localhost
+task start : free disk space - Aug 12 2017 06:20:57
+play_book start : disk_free.yaml - Aug 12 2017 06:21:54
+
+
+play start : localhost - Aug 12 2017 06:21:54
+task start : Gathering Facts - Aug 12 2017 06:21:54
+task start : test for available disk space - Aug 12 2017 06:21:57
+task start : free disk space - Aug 12 2017 06:21:57
+localhost
+play_book start : disk_free.yaml - Aug 12 2017 06:23:59
+
+
+play start : localhost - Aug 12 2017 06:23:59
+task start : Gathering Facts - Aug 12 2017 06:23:59
+task start : test for available disk space - Aug 12 2017 06:24:02
+localhost
+task start : free disk space - Aug 12 2017 06:24:02
+
+
+play start : Ansible Ad-Hoc - Aug 12 2017 06:27:29
+task start :  - Aug 12 2017 06:27:29
+play_book start : disk_free.yaml - Aug 12 2017 06:29:30
+
+
+play start : localhost - Aug 12 2017 06:29:30
+task start : Gathering Facts - Aug 12 2017 06:29:30
+task start : test for available disk space - Aug 12 2017 06:29:33
+task start : free disk space - Aug 12 2017 06:29:33
+localhost
+play_book start : disk_free.yaml - Aug 12 2017 06:30:04
+
+
+play start : localhost - Aug 12 2017 06:30:04
+task start : Gathering Facts - Aug 12 2017 06:30:04
+task start : test for available disk space - Aug 12 2017 06:30:07
+task start : free disk space - Aug 12 2017 06:30:08
+play_book start : disk_free.yaml - Aug 12 2017 06:36:09
+
+
+play start : localhost - Aug 12 2017 06:36:09
+task start : Gathering Facts - Aug 12 2017 06:36:09
+task start : test for available disk space - Aug 12 2017 06:36:12
+task start : free disk space - Aug 12 2017 06:36:12
+localhost
+play_book start : disk_free.yaml - Aug 12 2017 06:38:25
+
+
+play start : localhost - Aug 12 2017 06:38:25
+task start : Gathering Facts - Aug 12 2017 06:38:25
+task start : test for available disk space - Aug 12 2017 06:38:28
+task start : free disk space - Aug 12 2017 06:38:28
+play_book start : disk_free.yaml - Aug 12 2017 06:39:02
+
+
+play start : localhost - Aug 12 2017 06:39:02
+task start : Gathering Facts - Aug 12 2017 06:39:02
+task start : test for available disk space - Aug 12 2017 06:39:06
+task start : free disk space - Aug 12 2017 06:39:06
+play_book start : disk_free.yaml - Aug 12 2017 06:39:52
+
+
+play start : localhost - Aug 12 2017 06:39:52
+task start : Gathering Facts - Aug 12 2017 06:39:52
+task start : test for available disk space - Aug 12 2017 06:39:55
+task start : free disk space - Aug 12 2017 06:39:55
+play_book start : disk_free.yaml - Aug 12 2017 06:41:23
+
+
+play start : localhost - Aug 12 2017 06:41:23
+task start : Gathering Facts - Aug 12 2017 06:41:23
+task start : test for available disk space - Aug 12 2017 06:41:26
+task start : free disk space - Aug 12 2017 06:41:26
+localhost
+play_book start : disk_free.yaml - Aug 12 2017 06:41:48
+
+
+play start : localhost - Aug 12 2017 06:41:48
+task start : Gathering Facts - Aug 12 2017 06:41:48
+task start : test for available disk space - Aug 12 2017 06:41:51
+task start : free disk space - Aug 12 2017 06:41:51
+play_book start : disk_free.yaml - Aug 12 2017 06:46:39
+
+
+play start : localhost - Aug 12 2017 06:46:39
+task start : Gathering Facts - Aug 12 2017 06:46:39
+task start : test for available disk space - Aug 12 2017 06:46:42
+task start : free disk space - Aug 12 2017 06:46:42
+play_book start : disk_free.yaml - Aug 12 2017 07:44:53
+
+
+play start : localhost - Aug 12 2017 07:44:53
+task start : Gathering Facts - Aug 12 2017 07:44:53
+task start : test for available disk space - Aug 12 2017 07:44:57
+task start : free disk space - Aug 12 2017 07:44:57
+localhost
+play_book start : disk_free.yaml - Aug 12 2017 07:45:21
+
+
+play start : localhost - Aug 12 2017 07:45:21
+task start : Gathering Facts - Aug 12 2017 07:45:21
+task start : test for available disk space - Aug 12 2017 07:45:24
+task start : free disk space - Aug 12 2017 07:45:24
+localhost
+play_book start : disk_free.yaml - Aug 12 2017 07:45:59
+
+
+play start : localhost - Aug 12 2017 07:45:59
+task start : Gathering Facts - Aug 12 2017 07:45:59
+task start : test for available disk space - Aug 12 2017 07:46:02
+task start : free disk space - Aug 12 2017 07:46:03
+play_book start : disk_free.yaml - Aug 12 2017 08:08:50
+
+
+play start : localhost - Aug 12 2017 08:08:50
+task start : Gathering Facts - Aug 12 2017 08:08:50
+task start : test for available disk space - Aug 12 2017 08:08:53
+localhost
+task start : free disk space - Aug 12 2017 08:08:53
+task start : free disk space - Aug 12 2017 08:08:53
+localhost
+play_book start : disk_free.yaml - Aug 12 2017 08:12:52
+
+
+play start : localhost - Aug 12 2017 08:12:52
+task start : Gathering Facts - Aug 12 2017 08:12:52
+task start : test for available disk space - Aug 12 2017 08:12:56
+task start : free disk space - Aug 12 2017 08:12:56
+task start : free disk space - Aug 12 2017 08:12:56
+localhost
+play_book start : disk_free.yaml - Aug 12 2017 08:13:23
+
+
+play start : localhost - Aug 12 2017 08:13:23
+task start : Gathering Facts - Aug 12 2017 08:13:23
+task start : test for available disk space - Aug 12 2017 08:13:26
+task start : debug - Aug 12 2017 08:13:26
+task start : free disk space - Aug 12 2017 08:13:26
+localhost
+play_book start : disk_free.yaml - Aug 12 2017 08:16:27
+
+
+play start : localhost - Aug 12 2017 08:16:27
+task start : Gathering Facts - Aug 12 2017 08:16:27
+task start : test for available disk space - Aug 12 2017 08:16:31
+task start : debug - Aug 12 2017 08:16:31
+task start : free disk space - Aug 12 2017 08:16:31
+localhost
+play_book start : disk_free.yaml - Aug 12 2017 08:31:38
+
+
+play start : localhost - Aug 12 2017 08:31:38
+task start : Gathering Facts - Aug 12 2017 08:31:38
+task start : test for available disk space - Aug 12 2017 08:31:41
+task start : debug - Aug 12 2017 08:31:41
+task start :  - Aug 12 2017 08:31:41
+localhost
+play_book start : disk_free.yaml - Aug 12 2017 08:35:33
+
+
+play start : localhost - Aug 12 2017 08:35:33
+task start : Gathering Facts - Aug 12 2017 08:35:33
+task start : test for available disk space - Aug 12 2017 08:35:36
+task start : debug - Aug 12 2017 08:35:36
+localhost
+play_book start : disk_free.yaml - Aug 12 2017 08:37:32
+
+
+play start : localhost - Aug 12 2017 08:37:32
+task start : Gathering Facts - Aug 12 2017 08:37:32
+task start : test for available disk space - Aug 12 2017 08:37:36
+task start : clear - Aug 12 2017 08:37:36
+localhost
+play_book start : disk_free.yaml - Aug 12 2017 08:37:52
+
+
+play start : localhost - Aug 12 2017 08:37:52
+task start : Gathering Facts - Aug 12 2017 08:37:52
+task start : test for available disk space - Aug 12 2017 08:37:55
+task start : debug - Aug 12 2017 08:37:55
+localhost
+play_book start : disk_free.yaml - Aug 12 2017 08:39:08
+
+
+play start : localhost - Aug 12 2017 08:39:08
+task start : Gathering Facts - Aug 12 2017 08:39:08
+task start : test for available disk space - Aug 12 2017 08:39:12
+task start : debug - Aug 12 2017 08:39:12
+task start : clear - Aug 12 2017 08:39:12
+localhost
+play_book start : disk_free.yaml - Aug 12 2017 08:39:39
+
+
+play start : localhost - Aug 12 2017 08:39:39
+task start : Gathering Facts - Aug 12 2017 08:39:39
+task start : test for available disk space - Aug 12 2017 08:39:42
+task start : debug - Aug 12 2017 08:39:42
+task start : clear - Aug 12 2017 08:39:42
+localhost
+play_book start : disk_free.yaml - Aug 12 2017 08:40:07
+
+
+play start : localhost - Aug 12 2017 08:40:07
+task start : Gathering Facts - Aug 12 2017 08:40:07
+task start : test for available disk space - Aug 12 2017 08:40:10
+task start : debug - Aug 12 2017 08:40:10
+task start : clear - Aug 12 2017 08:40:10
+play_book start : test3.yaml - Aug 12 2017 11:28:09
+
+
+play start : all - Aug 12 2017 11:28:09
+task start : debug loops - Aug 12 2017 11:28:09
+192.168.100.1
+localhost
+127.0.0.1
+play_book start : test3.yaml - Aug 12 2017 11:30:09
+
+
+play start : all - Aug 12 2017 11:30:09
+task start : debug loops - Aug 12 2017 11:30:09
+127.0.0.1
+localhost
+192.168.100.1
+play_book start : test3.yaml - Aug 12 2017 11:31:56
+
+
+play start : all - Aug 12 2017 11:31:56
+task start : debug loops - Aug 12 2017 11:31:56
+127.0.0.1
+localhost
+192.168.100.1
+play_book start : test3.yaml - Aug 12 2017 11:32:29
+
+
+play start : all - Aug 12 2017 11:32:29
+task start : debug loops - Aug 12 2017 11:32:29
+127.0.0.1
+192.168.100.1
+localhost
+play_book start : test3.yaml - Aug 12 2017 11:32:46
+
+
+play start : all - Aug 12 2017 11:32:46
+task start : f - Aug 12 2017 11:32:46
+127.0.0.1
+localhost
+192.168.100.1
+play_book start : test3.yaml - Aug 12 2017 11:34:56
+
+
+play start : all - Aug 12 2017 11:34:56
+task start : f - Aug 12 2017 11:34:56
+127.0.0.1
+localhost
+192.168.100.1
+play_book start : test3.yaml - Aug 12 2017 11:35:53
+
+
+play start : all - Aug 12 2017 11:35:53
+task start : f - Aug 12 2017 11:35:53
+127.0.0.1
+localhost
+192.168.100.1
+play_book start : test3.yaml - Aug 12 2017 11:37:45
+
+
+play start : all - Aug 12 2017 11:37:45
+task start : f - Aug 12 2017 11:37:45
+127.0.0.1
+localhost
+192.168.100.1
+play_book start : test3.yaml - Aug 12 2017 11:38:01
+
+
+play start : all - Aug 12 2017 11:38:01
+task start : f - Aug 12 2017 11:38:01
+127.0.0.1
+192.168.100.1
+localhost
+play_book start : test3.yaml - Aug 12 2017 11:38:26
+
+
+play start : all - Aug 12 2017 11:38:26
+task start : f - Aug 12 2017 11:38:27
+127.0.0.1
+localhost
+192.168.100.1
+play_book start : test3.yaml - Aug 12 2017 11:38:40
+
+
+play start : all - Aug 12 2017 11:38:40
+task start : f - Aug 12 2017 11:38:40
+task start : debug loops - Aug 12 2017 11:38:40
+127.0.0.1
+localhost
+192.168.100.1
+play_book start : test3.yaml - Aug 12 2017 11:39:21
+
+
+play start : all - Aug 12 2017 11:39:21
+task start : f - Aug 12 2017 11:39:21
+127.0.0.1
+192.168.100.1
+localhost
+play_book start : test3.yaml - Aug 12 2017 11:40:09
+
+
+play start : all - Aug 12 2017 11:40:09
+task start : f - Aug 12 2017 11:40:09
+task start : debug loops - Aug 12 2017 11:40:09
+127.0.0.1
+192.168.100.1
+localhost
+play_book start : test3.yaml - Aug 12 2017 11:40:49
+
+
+play start : all - Aug 12 2017 11:40:49
+task start : f - Aug 12 2017 11:40:49
+task start : debug loops - Aug 12 2017 11:40:49
+127.0.0.1
+localhost
+192.168.100.1
+play_book start : test3.yaml - Aug 12 2017 11:41:21
+
+
+play start : all - Aug 12 2017 11:41:21
+task start : f - Aug 12 2017 11:41:21
+task start : debug loops - Aug 12 2017 11:41:22
+127.0.0.1
+localhost
+192.168.100.1
+play_book start : test3.yaml - Aug 12 2017 12:23:13
+
+
+play start : all - Aug 12 2017 12:23:13
+task start :  - Aug 12 2017 12:23:13
+127.0.0.1
+192.168.100.1
+localhost
+play_book start : test3.yaml - Aug 12 2017 12:23:31
+
+
+play start : all - Aug 12 2017 12:23:31
+task start : f - Aug 12 2017 12:23:31
+127.0.0.1
+192.168.100.1
+localhost
+play_book start : test3.yaml - Aug 12 2017 12:33:19
+
+
+play start : all - Aug 12 2017 12:33:19
+task start : set_fact - Aug 12 2017 12:33:19
+127.0.0.1
+localhost
+192.168.100.1
+play_book start : test3.yaml - Aug 12 2017 12:33:26
+
+
+play start : all - Aug 12 2017 12:33:26
+task start : set_fact - Aug 12 2017 12:33:26
+127.0.0.1
+localhost
+192.168.100.1
+play_book start : test3.yaml - Aug 12 2017 12:34:22
+
+
+play start : all - Aug 12 2017 12:34:22
+task start : set_fact - Aug 12 2017 12:34:22
+127.0.0.1
+localhost
+192.168.100.1
+play_book start : test3.yaml - Aug 12 2017 12:44:10
+
+
+play start : all - Aug 12 2017 12:44:10
+task start : set_fact - Aug 12 2017 12:44:10
+127.0.0.1
+192.168.100.1
+localhost
+play_book start : test3.yaml - Aug 12 2017 12:44:43
+
+
+play start : all - Aug 12 2017 12:44:43
+task start : set_fact - Aug 12 2017 12:44:43
+127.0.0.1
+localhost
+192.168.100.1
+play_book start : test3.yaml - Aug 12 2017 12:46:54
+
+
+play start : all - Aug 12 2017 12:46:54
+task start : set_fact - Aug 12 2017 12:46:54
+127.0.0.1
+localhost
+192.168.100.1
+play_book start : test3.yaml - Aug 12 2017 12:47:08
+
+
+play start : all - Aug 12 2017 12:47:08
+task start : set_fact - Aug 12 2017 12:47:08
+127.0.0.1
+localhost
+192.168.100.1
+play_book start : test3.yaml - Aug 12 2017 12:47:21
+
+
+play start : all - Aug 12 2017 12:47:21
+task start : set_fact - Aug 12 2017 12:47:21
+127.0.0.1
+192.168.100.1
+localhost
+play_book start : test3.yaml - Aug 12 2017 12:48:04
+
+
+play start : localhost - Aug 12 2017 12:48:04
+task start : set_fact - Aug 12 2017 12:48:04
+localhost
+play_book start : test3.yaml - Aug 12 2017 12:48:17
+
+
+play start : localhost - Aug 12 2017 12:48:17
+task start : Gathering Facts - Aug 12 2017 12:48:17
+task start : set_fact - Aug 12 2017 12:48:21
+localhost
+play_book start : test3.yaml - Aug 12 2017 12:48:52
+
+
+play start : localhost - Aug 12 2017 12:48:52
+task start : Gathering Facts - Aug 12 2017 12:48:52
+task start : set_fact - Aug 12 2017 12:48:55
+localhost
+play_book start : test3.yaml - Aug 12 2017 12:49:37
+
+
+play start : localhost - Aug 12 2017 12:49:37
+task start : Gathering Facts - Aug 12 2017 12:49:37
+task start : set_fact - Aug 12 2017 12:49:40
+localhost
+play_book start : test3.yaml - Aug 12 2017 12:49:46
+
+
+play start : localhost - Aug 12 2017 12:49:46
+task start : Gathering Facts - Aug 12 2017 12:49:46
+task start : set_fact - Aug 12 2017 12:49:49
+localhost
+play_book start : test3.yaml - Aug 12 2017 12:52:08
+
+
+play start : localhost - Aug 12 2017 12:52:08
+task start : Gathering Facts - Aug 12 2017 12:52:08
+task start : set_fact - Aug 12 2017 12:52:11
+localhost
+play_book start : test3.yaml - Aug 12 2017 12:52:16
+
+
+play start : localhost - Aug 12 2017 12:52:16
+task start : Gathering Facts - Aug 12 2017 12:52:16
+task start : set_fact - Aug 12 2017 12:52:20
+localhost
+play_book start : test3.yaml - Aug 12 2017 12:54:14
+
+
+play start : localhost - Aug 12 2017 12:54:14
+task start : Gathering Facts - Aug 12 2017 12:54:14
+task start : set_fact - Aug 12 2017 12:54:17
+localhost
+play_book start : test3.yaml - Aug 12 2017 12:54:38
+
+
+play start : localhost - Aug 12 2017 12:54:38
+task start : Gathering Facts - Aug 12 2017 12:54:38
+task start : f - Aug 12 2017 12:54:42
+localhost
+play_book start : test3.yaml - Aug 12 2017 12:56:31
+
+
+play start : localhost - Aug 12 2017 12:56:31
+task start : f1 - Aug 12 2017 12:56:31
+localhost
+play_book start : test3.yaml - Aug 12 2017 12:56:50
+
+
+play start : localhost - Aug 12 2017 12:56:50
+task start : debug - Aug 12 2017 12:56:50
+localhost
+play_book start : test3.yaml - Aug 12 2017 12:57:08
+
+
+play start : localhost - Aug 12 2017 12:57:08
+task start : debug - Aug 12 2017 12:57:08
+localhost
+play_book start : test3.yaml - Aug 12 2017 12:57:38
+
+
+play start : localhost - Aug 12 2017 12:57:38
+task start : debug - Aug 12 2017 12:57:38
+localhost
+play_book start : test3.yaml - Aug 12 2017 12:57:59
+
+
+play start : localhost - Aug 12 2017 12:57:59
+task start : debug - Aug 12 2017 12:57:59
+localhost
+play_book start : test3.yaml - Aug 12 2017 12:58:22
+
+
+play start : localhost - Aug 12 2017 12:58:22
+task start : debug - Aug 12 2017 12:58:22
+play_book start : test3.yaml - Aug 12 2017 13:00:38
+
+
+play start : localhost - Aug 12 2017 13:00:38
+task start : debug - Aug 12 2017 13:00:38
+task start : f1 - Aug 12 2017 13:00:38
+localhost
+play_book start : test3.yaml - Aug 12 2017 13:01:03
+
+
+play start : localhost - Aug 12 2017 13:01:03
+task start : debug - Aug 12 2017 13:01:03
+task start : f1 - Aug 12 2017 13:01:03
+play_book start : test3.yaml - Aug 12 2017 13:02:09
+
+
+play start : localhost - Aug 12 2017 13:02:09
+task start : debug - Aug 12 2017 13:02:09
+task start : f1 - Aug 12 2017 13:02:09
+task start :  - Aug 12 2017 13:02:09
+play_book start : test3.yaml - Aug 12 2017 13:02:24
+
+
+play start : localhost - Aug 12 2017 13:02:24
+task start : debug - Aug 12 2017 13:02:25
+task start : f1 - Aug 12 2017 13:02:25
+task start :  - Aug 12 2017 13:02:25
+localhost
+play_book start : test3.yaml - Aug 12 2017 13:02:43
+
+
+play start : localhost - Aug 12 2017 13:02:43
+task start : debug - Aug 12 2017 13:02:43
+task start : f1 - Aug 12 2017 13:02:44
+task start :  - Aug 12 2017 13:02:44
+localhost
+play_book start : test3.yaml - Aug 12 2017 13:03:46
+
+
+play start : localhost - Aug 12 2017 13:03:46
+task start : debug - Aug 12 2017 13:03:47
+task start : f1 - Aug 12 2017 13:03:47
+task start :  - Aug 12 2017 13:03:47
+localhost
+play_book start : test3.yaml - Aug 12 2017 13:04:07
+
+
+play start : localhost - Aug 12 2017 13:04:07
+task start : debug - Aug 12 2017 13:04:07
+task start : f1 - Aug 12 2017 13:04:07
+task start :  - Aug 12 2017 13:04:07
+localhost
+play_book start : test3.yaml - Aug 12 2017 13:04:46
+
+
+play start : localhost - Aug 12 2017 13:04:46
+task start : debug - Aug 12 2017 13:04:46
+task start : f1 - Aug 12 2017 13:04:46
+task start : debug - Aug 12 2017 13:04:46
+localhost
+play_book start : test3.yaml - Aug 12 2017 13:05:10
+
+
+play start : localhost - Aug 12 2017 13:05:10
+task start : debug - Aug 12 2017 13:05:10
+task start : f1 - Aug 12 2017 13:05:10
+task start : debug1 - Aug 12 2017 13:05:10
+localhost
+play_book start : test3.yaml - Aug 12 2017 13:05:31
+
+
+play start : localhost - Aug 12 2017 13:05:31
+task start : debug - Aug 12 2017 13:05:31
+task start : f1 - Aug 12 2017 13:05:31
+task start : debug1 - Aug 12 2017 13:05:31
+localhost
+play_book start : test3.yaml - Aug 12 2017 13:05:47
+
+
+play start : localhost - Aug 12 2017 13:05:47
+task start : debug - Aug 12 2017 13:05:47
+task start : f1 - Aug 12 2017 13:05:48
+task start : debug1 - Aug 12 2017 13:05:48
+play_book start : test3.yaml - Aug 12 2017 13:06:36
+
+
+play start : localhost - Aug 12 2017 13:06:36
+task start : debug - Aug 12 2017 13:06:36
+task start : f1 - Aug 12 2017 13:06:36
+task start : debug1 - Aug 12 2017 13:06:36
+localhost
+play_book start : test3.yaml - Aug 12 2017 13:06:49
+
+
+play start : localhost - Aug 12 2017 13:06:49
+task start : debug - Aug 12 2017 13:06:49
+task start : f1 - Aug 12 2017 13:06:49
+task start : debug1 - Aug 12 2017 13:06:49
+localhost
+play_book start : test3.yaml - Aug 12 2017 13:07:36
+
+
+play start : localhost - Aug 12 2017 13:07:36
+task start : debug - Aug 12 2017 13:07:36
+task start : f1 - Aug 12 2017 13:07:37
+task start : debug1 - Aug 12 2017 13:07:37
+localhost
+play_book start : test3.yaml - Aug 12 2017 13:12:40
+
+
+play start : localhost - Aug 12 2017 13:12:40
+task start : debug - Aug 12 2017 13:12:40
+task start : f1 - Aug 12 2017 13:12:40
+task start : debug1 - Aug 12 2017 13:12:40
+localhost
+play_book start : test3.yaml - Aug 12 2017 13:12:48
+
+
+play start : localhost - Aug 12 2017 13:12:48
+task start : debug - Aug 12 2017 13:12:48
+task start : f1 - Aug 12 2017 13:12:49
+task start : debug1 - Aug 12 2017 13:12:49
+localhost
+play_book start : test3.yaml - Aug 12 2017 13:13:03
+
+
+play start : localhost - Aug 12 2017 13:13:03
+task start : debug - Aug 12 2017 13:13:03
+task start : f1 - Aug 12 2017 13:13:03
+task start : debug1 - Aug 12 2017 13:13:03
+localhost
+play_book start : test3.yaml - Aug 12 2017 13:13:12
+
+
+play start : localhost - Aug 12 2017 13:13:12
+task start : debug - Aug 12 2017 13:13:12
+task start : f1 - Aug 12 2017 13:13:12
+task start : debug1 - Aug 12 2017 13:13:12
+localhost
+play_book start : test3.yaml - Aug 12 2017 13:13:19
+
+
+play start : localhost - Aug 12 2017 13:13:19
+task start : debug - Aug 12 2017 13:13:19
+task start : f1 - Aug 12 2017 13:13:20
+task start : debug1 - Aug 12 2017 13:13:20
+localhost
+play_book start : test3.yaml - Aug 12 2017 13:13:44
+
+
+play start : localhost - Aug 12 2017 13:13:44
+task start : debug - Aug 12 2017 13:13:44
+task start : f1 - Aug 12 2017 13:13:45
+play_book start : test3.yaml - Aug 12 2017 13:14:22
+
+
+play start : localhost - Aug 12 2017 13:14:22
+task start : debug - Aug 12 2017 13:14:22
+task start : f1 - Aug 12 2017 13:14:23
+localhost
+play_book start : test3.yaml - Aug 12 2017 13:15:10
+
+
+play start : localhost - Aug 12 2017 13:15:10
+task start : debug - Aug 12 2017 13:15:10
+task start : f1 - Aug 12 2017 13:15:10
+play_book start : test3.yaml - Aug 12 2017 13:15:21
+
+
+play start : localhost - Aug 12 2017 13:15:21
+task start : debug - Aug 12 2017 13:15:22
+task start : f1 - Aug 12 2017 13:15:22
+task start : debug1 - Aug 12 2017 13:15:22
+play_book start : test3.yaml - Aug 12 2017 13:15:26
+
+
+play start : localhost - Aug 12 2017 13:15:26
+task start : debug - Aug 12 2017 13:15:26
+task start : f1 - Aug 12 2017 13:15:27
+task start : debug1 - Aug 12 2017 13:15:27
+play_book start : test3.yaml - Aug 12 2017 13:15:43
+
+
+play start : localhost - Aug 12 2017 13:15:43
+task start : debug - Aug 12 2017 13:15:43
+task start : f1 - Aug 12 2017 13:15:43
+task start : debug1 - Aug 12 2017 13:15:43
+play_book start : test3.yaml - Aug 12 2017 13:16:02
+
+
+play start : localhost - Aug 12 2017 13:16:02
+task start : debug - Aug 12 2017 13:16:02
+task start : f1 - Aug 12 2017 13:16:02
+task start : debug1 - Aug 12 2017 13:16:02
+play_book start : test3.yaml - Aug 12 2017 13:47:20
+
+
+play start : localhost - Aug 12 2017 13:47:20
+task start : debug - Aug 12 2017 13:47:20
+task start : f1 - Aug 12 2017 13:47:20
+localhost
+play_book start : test3.yaml - Aug 12 2017 13:47:25
+
+
+play start : localhost - Aug 12 2017 13:47:25
+task start : debug - Aug 12 2017 13:47:25
+task start : f1 - Aug 12 2017 13:47:25
+localhost

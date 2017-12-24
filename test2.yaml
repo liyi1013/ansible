@@ -1,0 +1,12 @@
+---
+- hosts: all
+  remote_user: root
+  gather_facts: no
+  tasks:
+    - name: test lineinfile
+      lineinfile: 
+        dest: /home/ansible/config
+        regexp: "^diff_lines = cyan$"
+        line: "diff_lines = cyan"
+        backrefs: no
+

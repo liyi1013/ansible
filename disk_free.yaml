@@ -1,0 +1,35 @@
+# ansible 自动清理磁盘，
+# 李轶 【2017年08月12日-16:57】
+
+# 由于es 不能直接获取挂载点，考虑之间知道ip 来清理文件系统
+# 外部不输入挂在点（'/data'），只输入ip; ansible 调用tasks 检查磁盘空间
+# 检查磁盘后，再清理下面的路径【这步无法在一个playbook 中实现】
+# 后续考虑写个过滤插件
+
+- hosts: localhost
+  become: True
+  vars: 
+  - paths: 
+      "/data/app": ["/Users/liyi/tmp/","/"]
+      "/": ["/var/log","/tmp"]
+      "/etc/hosts": ["/etc/hosts"]
+    var1: "/data/app"
+  tasks: 
+  - name: test for available disk space
+    assert:
+      that: item.size_available|float < ( item.size_total|float * 0.95 ) 
+    with_items: '{{ansible_mounts}}'
+    ignore_errors: yes
+    register: disk_free
+
+  - name: debug
+    debug:
+      msg: "{{item.item.mount}}"
+    with_items: '{{disk_free.results}}'
+    when: disk_free|success
+
+# 下面的自动清理无法实现  
+  - name: clear
+    shell : ls  "{{ item.item.mount}}"
+    with_items: '{{disk_free.results}}'
+    when: disk_free|success
