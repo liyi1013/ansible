@@ -58,8 +58,8 @@ def xls2yaml(file_name_xls,file_name_yaml):
 
 if __name__ == '__main__':
     #print sys.argv
-    if len(sys.argv) < 3:
-        print sys.argv
-    file_name_xls, file_name_yaml=  sys.argv[1],sys.argv[2]
-    xls2yaml(file_name_xls,file_name_yaml)
-    #xls2yaml('/Users/liyi/Desktop/logfile.xls','/Users/liyi/Desktop/document.yaml')
+    #if len(sys.argv) < 3:
+    #    print sys.argv
+    #file_name_xls, file_name_yaml=  sys.argv[1],sys.argv[2]
+    #xls2yaml(file_name_xls,file_name_yaml)
+    xls2yaml('/Users/liyi/Desktop/logfile.xls','/Users/liyi/Desktop/document.yaml')
